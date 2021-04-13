@@ -1,0 +1,17 @@
+.hero{
+    background-color:cadetblue
+}
+.img1{
+    width: 350px;
+}
+h1{
+    font-family: "Architects Daughter";
+    line-height:1.5 ;
+    font-size:3rem;
+}
+.container-fluid{
+    padding:3% 15% ;
+}
+h5{
+    font-family: 'New Tegomin', serif;
+}
