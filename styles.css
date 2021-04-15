@@ -1,13 +1,22 @@
 .hero{
-    background-color:cadetblue
+    background-image: url(images/background.jpg);
+    background-size:cover;
+}
+h4{
+    font-family: 'Ubuntu', sans-serif;
+    color: azure;
 }
 .img1{
-    width: 350px;
+   
+    width: 60%;
+    margin-right:200px ;
+    transform: rotate(-10deg);
 }
 h1{
     font-family: "Architects Daughter";
     line-height:1.5 ;
     font-size:3rem;
+    color:azure;
 }
 .container-fluid{
     padding:3% 15% ;
@@ -15,3 +24,20 @@ h1{
 h5{
     font-family: 'New Tegomin', serif;
 }
+
+.navbar{
+    margin-bottom:50px ;
+}
+
+.navbar-brand{
+    font-size:1.5rem;
+}
+.navbar-nav{
+    padding:0 18px;
+}
+
+.btn{
+    margin-top:35px;
+
+}
+
