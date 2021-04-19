@@ -4,6 +4,15 @@
     background-attachment: fixed;
     padding-bottom:180px ;
 }
+.title{
+    font-family: 'Ubuntu', sans-serif;
+}
+li{
+    font-family: 'Ubuntu', sans-serif;
+    padding-right:30px;
+    font-weight:bold;
+    
+}
 h4{
     font-family: 'Ubuntu', sans-serif;
     color: azure;
