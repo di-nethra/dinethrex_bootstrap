@@ -55,7 +55,7 @@ h5{
 
 #features{
  padding:7% 15%;
- background-color:snow;
+ background-color:azure;
 }
 
 .feature{
@@ -102,5 +102,19 @@ h2{
     width:10%;
     border-radius:100%;    
     margin:20px;
-
+}
+.logo1{
+    width:10rem;
+}
+.logo2{
+    width:7rem;
+}
+.logo3{
+    width:11rem;
+}
+.logo4{
+    width:12rem;
+}
+.logoes{
+    padding:2% 15%;
 }
